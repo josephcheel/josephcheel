@@ -6,7 +6,7 @@
 </picture>
 <h1 align="center">Hi, I'm Joseph</h1>
 <div>
-		<h3 >Technologies and Languages</h3>
+		<h3 >Languages & Tools</h3>
 		<img src="https://skillicons.dev/icons?i=c,py,bash,git,vscode">
 </div>
 <div align="center">
