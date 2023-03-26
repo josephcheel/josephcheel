@@ -12,8 +12,8 @@
 <br><br>
 <div align="center">
 	<h3>Stats</h3>
-	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=josephcheel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="my Github Stats"/>
 	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephcheel&show_icons=true&locale=en&layout=compact&theme=swift"     alt="ovi" />
+	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=josephcheel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="my Github Stats"/>
 	<!--title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40-->
 </div>
 <br><br>
