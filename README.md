@@ -9,13 +9,14 @@
 	<h3 >Languages & Tools</h3>
 	<img src="https://skillicons.dev/icons?i=c,py,bash,git,vscode">
 </div>
+<br><br>
 <div align="center">
 	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephcheel&show_icons=true&locale=en&layout=compact&theme=swift"     alt="ovi" />
 	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=josephcheel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="my Github Stats"/>
-	<!--title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40>
+	<!--title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40-->
 </div>
+<br><br>
+<h3>Currently Studying</h3>
 <div>
-	[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josephcheel&repo=42Cursus)](https://github.com/josephcheel/42Cursus)
-	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=josephcheel&repo=42Cursus"/>
 </div>
-<br>
