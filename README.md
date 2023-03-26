@@ -1,13 +1,13 @@
 
 <picture>
- <source width="900px" height="100px" media="(prefers-color-scheme: dark)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
- <img alt="YOUR-ALT-TEXT" src="">
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
+	<img alt="PRUEBA" src="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg" width="100% ">
 </picture>
 <h1 align="center">Hi, I'm Joseph</h1>
 <div>
-		<h3 >Languages & Tools</h3>
-		<img src="https://skillicons.dev/icons?i=c,py,bash,git,vscode">
+	<h3 >Languages & Tools</h3>
+	<img src="https://skillicons.dev/icons?i=c,py,bash,git,vscode">
 </div>
 <div align="center">
 	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephcheel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"     alt="ovi" />
