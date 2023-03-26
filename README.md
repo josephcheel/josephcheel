@@ -18,6 +18,6 @@
 </div>
 <br><br>
 <h3>Currently Studying</h3>
-<div>
+<!--<div>
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=josephcheel&repo=42Cursus"/>
 </div>
