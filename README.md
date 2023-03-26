@@ -1,8 +1,8 @@
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/josephcheel/josephcheel/sources/test.jpg">
+ <source width="900px" height="100px" media="(prefers-color-scheme: dark)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
+ <img alt="YOUR-ALT-TEXT" src="">
 </picture>
 <h1 align="center">Hi, I'm Joseph</h1>
 <div>
