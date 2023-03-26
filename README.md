@@ -9,7 +9,7 @@
 	<h3>Languages & Tools</h3>
 	<img src="https://skillicons.dev/icons?i=c,py,bash,git,vscode">
 </div>
-<br><br>
+
 <div align="center">
 	<h3>Stats</h3>
 	<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephcheel&show_icons=true&locale=en&layout=compact&theme=swift"     alt="ovi" />
