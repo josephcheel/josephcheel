@@ -4,7 +4,14 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">
 	<img alt="PRUEBA" src="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg" width="100% ">
 </picture>
-<h1 align="center">Hi, I'm Joseph</h1>
+
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=300&size=30&pause=1000&color=000FF7&center=true&width=435&lines=Hola.+;soy+Joseph+Cheel+;%E2%80%94Estudiante+de+Ingenieria+de+Software" alt="Typing SVG" /></a>-->
+
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=900&size=30&duration=500&pause=1000&color=000FF7&background=EADCFF00&center=true&vCenter=true&width=500&height=70&lines=Hola.+;soy+Joseph+Cheel+;%E2%80%94Software+Developer" alt="Typing SVG" /></a>-->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=900&size=30&duration=1000&pause=500&color=000FF7&background=EADCFF00&center=true&vCenter=true&width=500&height=70&lines=Hola.+;soy+Joseph+Cheel+;%E2%80%94Software+Developer" alt="Typing SVG" /></a>
+
+<h1 align="center"></h1>
 <div>
 	<h3>Languages & Tools</h3>
 	<img src="https://skillicons.dev/icons?i=c,py,bash,git,vscode">
