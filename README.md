@@ -3,7 +3,7 @@
 <!--<source media="(prefers-color-scheme: dark)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">-->
 <!--<source media="(prefers-color-scheme: light)" srcset="https://github.com/josephcheel/josephcheel/blob/main/sources/test.jpeg">-->
 
-<img alt="PRUEBA" src="https://github.com/josephcheel/josephcheel/blob/main/sources/Banner.png" width="100%">
+<img alt="PRUEBA" src="https://github.com/josephcheel/josephcheel/blob/main/sources/BannerTest2.png" width="100%">
 
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=300&size=30&pause=1000&color=000FF7&center=true&width=435&lines=Hola.+;soy+Joseph+Cheel+;%E2%80%94Estudiante+de+Ingenieria+de+Software" alt="Typing SVG" /></a>-->
 
